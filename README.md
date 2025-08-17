@@ -21,24 +21,6 @@ O projeto foi criado para simular o ambiente de vendas de uma pequena loja. Ele 
     - Percentual de Comissão
     - Valor Final da Comissão a Receber
 
-## Como Usar
-
-Para executar este projeto, você precisa ter o Python instalado em sua máquina.
-
-1.  **Salve o código** em um arquivo chamado `vendas.py`.
-2.  **Abra um terminal** ou prompt de comando.
-3.  **Navegue até a pasta** onde você salvou o arquivo:
-    ```bash
-    cd caminho/para/a/pasta
-    ```
-4.  **Execute o script** com o seguinte comando:
-    ```bash
-    python vendas.py
-    ```
-5.  **Siga as instruções** no terminal para:
-    * Cadastrar os produtos iniciais.
-    * Iniciar uma nova venda (`V`) ou gerar o relatório final (`R`).
-
 ## Fluxo de Execução
 
 1.  **Cadastro de Produtos:** Ao iniciar, o sistema solicita o cadastro de todos os produtos que estarão disponíveis para venda durante a sessão.
